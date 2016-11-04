@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
+title: Luyao
+subtitle: 
 description:
-author: John Doe
-language:
+author: Shichuan
+language: zh-CN
 timezone:
 
 # URL
@@ -69,3 +69,4 @@ theme: maupassant-hexo
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
