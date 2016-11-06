@@ -46,6 +46,9 @@ comments: false
 <i class="fa fa-calendar"></i> 2013年11月
 我回家参加英语学习
 
+<i class="fa fa-calendar"></i> 2013年10月某日
+路过你楼下，正好你在楼上阳台，你大吼“石川！”你笑的很开心，我抬头跟你打招呼，“我去照相店印你给我的照片”，那是你给我的第一张照片
+
 <i class="fa fa-calendar"></i> 2013年10月19日 晨
 与你一起去考研教室搬东西；
 
