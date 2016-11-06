@@ -8,7 +8,7 @@ comment: false
 
 ---
 Title: 第八封信
-Date: 2015-12-13 08:27:00
+Date: 2015-12-13
 Authors: 瑶
 Category: 爱瑶
 亲爱的SC:
@@ -20,7 +20,7 @@ Category: 爱瑶
 ---
 
 Title: 第七封信
-Date: 2015-08-04 22:40:31
+Date: 2015-08-04
 Authors: 瑶
 Category: 爱瑶
 亲爱的SC:
