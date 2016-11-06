@@ -17,12 +17,24 @@ menu:
   - page: home
     directory: .
     icon: fa-home
+  - page: 信件
+    directory: letters/
+    icon: fa-envelope-o
+  - page: 统计
+    directory: stat/
+    icon: fa-dashboard
+  - page: 过往
+    directory: history/
+    icon: fa-history
+  - page: 鸡汤
+    directory: soup/
+    icon: fa-quote-right
+  - page: 歌单
+    directory: songs/
+    icon: fa-music
   - page: archive
     directory: archives/
     icon: fa-archive
-  - page: Stat
-    directory: stat/
-    icon: fa-dashboard
   - page: about
     directory: about/
     icon: fa-user
