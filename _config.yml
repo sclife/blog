@@ -70,3 +70,5 @@ theme: maupassant-hexo
 deploy:
   type:
 
+# Add mathjax
+mathjax: true
