@@ -7,7 +7,7 @@ mathjax: true
 
 > $$\int_{22}^{die} \left( Chuan.life \right)  \mathrm{d} \left( age\right) = love \rightarrow Luyao \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace$$
 
-> 石川的生活，从22岁某一天开始出现了璐瑶，从此他的生活所构成的所有，就是爱虞璐瑶。
+> 石川的生活，从22岁某一天开始出现了璐瑶，从此他的生活所构成的所有，就是爱虞璐瑶。有时这个简单积分陡峭上升，有时猛的下滑，有时平平缓缓，但至始至终悬在 $x$ 轴的上方。
 
 ---
 
