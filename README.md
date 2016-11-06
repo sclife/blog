@@ -10,4 +10,4 @@
 * [font awesome](http://fontawesome.io/)
 
 ### 使用mathjax
-* http://lukang.me/2014/mathjax-for-hexo.html
+* [link](https://zhongpu.info/2016/05/06/Mathjax%20and%20Hexo/)
