@@ -24,7 +24,7 @@ menu:
     directory: stat/
     icon: fa-dashboard
   - page: 过往
-    directory: history/
+    directory: timeline/
     icon: fa-history
   - page: 鸡汤
     directory: soup/
