@@ -24,7 +24,7 @@ comments: false
 
 
 <i class="fa fa-calendar"></i> 2014年 农历初一
-西湖；城站火车站道别
+很久没见面了，与你去逛西湖；城站火车站道别
 
 <i class="fa fa-calendar"></i> 2013年12月24日 圣诞节
 晚上逛万达；cheese蛋糕；第二天你回家
