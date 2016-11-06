@@ -4,16 +4,31 @@ layout: page
 comments: false
 ---
 
-<i class="fa fa-calendar"></i> 我是个大渣男
+> 自从异地后，我们能回忆的越来越少。 --璐瑶
+
+---
+
+
+<i class="fa fa-calendar"></i> 2014年12月28日
+我开始实习
+
+<i class="fa fa-calendar"></i> 2014年11月
+感恩节；欧洲之星
+
+<i class="fa fa-calendar"></i> 2014年8月
+语言课程结束，你仍觉得要听懂课比较难
+
+<i class="fa fa-calendar"></i> 2014年暑假
+我准备英语考试；浙大自习
 
 <i class="fa fa-calendar"></i> 2014年6月中旬
-你出发去英国，每一次在一起的时间都如此短暂
+你出发去英国；黄龙道别；每一次在一起的时间都如此短暂
 
 <i class="fa fa-calendar"></i> 2014年5月19日 周一
 大雨，你生日，我在赶毕业设计。订了南苑环球的晚餐。当时骗你说，因为雨大就不出去了，去清泉吃砂锅，你竟然爽快答应。
 
 <i class="fa fa-calendar"></i> 2014年某月
-我在半夜离开女生寝室，被发现；
+进女生寝室；我在半夜离开，被某个女生发现；
 
 <i class="fa fa-calendar"></i> 2014年3月7日 女生节
 北操；我们的第一个家电；
