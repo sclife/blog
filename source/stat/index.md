@@ -4,6 +4,14 @@ layout: page
 comment: false
 ---
 
+> 你要能照顾好自己，才能爱别人。 --璐瑶
+
+---
+
+{% gist 2d3354a375d9a84eaba0132ffb1c774e %}
+
+---
+
 * 记录生活，以便监督自己
 * 都说养成一个习惯要21天，但真的好难。
 * 标签解释
@@ -25,7 +33,3 @@ comment: false
   - `exam` 考试
   - `life_score` 自我评价
   - `study_score` 自我评价
----
-
-{% gist 2d3354a375d9a84eaba0132ffb1c774e %}
-
