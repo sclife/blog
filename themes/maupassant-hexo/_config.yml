@@ -28,7 +28,7 @@ menu:
     icon: fa-history
   - page: 鸡汤
     directory: soup/
-    icon: fa-quote-right
+    icon: fa-quote-left
   - page: 歌单
     directory: songs/
     icon: fa-music
