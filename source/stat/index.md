@@ -24,6 +24,7 @@ layout: page
   - `exam` 考试
   - `life_score` 自我评价
   - `study_score` 自我评价
+---
 
 {% gist 2d3354a375d9a84eaba0132ffb1c774e %}
 
