@@ -2,7 +2,7 @@
 title: Hello World
 date: 2016-11-03 10:20
 category: python
-tags: hello, python, world
+tags: [hello, python, world]
 authors: shichuan
 modified: 2011-10-20 00:29
 ---
