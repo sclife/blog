@@ -1,5 +1,5 @@
 ---
-title: 过往
+title: 我们的过往
 layout: page
 comments: false
 ---
@@ -15,8 +15,8 @@ comments: false
 <i class="fa fa-calendar"></i> 2014年某月
 我在半夜离开女生寝室，被发现；
 
-<i class="fa fa-calendar"></i> 2014年3月
-北操；晚到的情人节礼物；我们的第一个家电；
+<i class="fa fa-calendar"></i> 2014年3月7日 女生节
+北操；我们的第一个家电；
 
 <i class="fa fa-calendar"></i> 2014年2月 情人节
 14日 你考雅思 我在学校
