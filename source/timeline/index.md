@@ -22,11 +22,10 @@ comments: false
 14日 你考雅思 我在学校
 15日 我在考场外等你出现
 
-
 <i class="fa fa-calendar"></i> 2014年 农历初一
 很久没见面了，与你去逛西湖；城站火车站道别
 
-<i class="fa fa-calendar"></i> 2013年12月24日 圣诞节
+<i class="fa fa-calendar"></i> 2013年12月24日 平安夜
 晚上逛万达；cheese蛋糕；第二天你回家
 
 <i class="fa fa-calendar"></i> 2013年11月
