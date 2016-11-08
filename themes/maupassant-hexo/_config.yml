@@ -19,13 +19,16 @@ menu:
     icon: fa-home
   - page: 信件
     directory: letters/
-    icon: fa-envelope-o
+    icon: fa-envelope
   - page: 统计
     directory: stat/
     icon: fa-dashboard
   - page: 过往
     directory: timeline/
     icon: fa-history
+  - page: 危险
+    directory: warning/
+    icon: fa-warning
   - page: about
     directory: about/
     icon: fa-user
