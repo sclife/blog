@@ -26,7 +26,6 @@ comment: false
   - `poop` 厕：大号
   - `nosepick` 挖鼻屎
   - `finger` 咬指甲
-  - `mas` 手淫
   - `movie` 电视剧电影类放松
   - `rest` 非夜晚打盹
   - `due` 作业截止
