@@ -16,7 +16,7 @@ widgets_on_small_screens: false ## Set to true to enable widgets on small screen
 menu:
   - page: home
     directory: .
-    icon: fa-home
+    icon: fa-paper-plane
   - page: 信件
     directory: letters/
     icon: fa-envelope
