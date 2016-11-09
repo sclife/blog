@@ -49,7 +49,7 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
 
 links:
   - title: shichuanwang.me
-    url: http://www.shichuanwang.me/
+    url: http://shichuanwang.me/
   #- title: site-name3
   #  url: http://www.example3.com/
 
