@@ -26,9 +26,12 @@ menu:
   - page: 过往
     directory: timeline/
     icon: fa-history
-  - page: 危险
-    directory: warning/
-    icon: fa-warning
+  - page: 选择
+    directory: direct/
+    icon: fa-map-signs
+  - page: 任务
+    directory: task/
+    icon: fa-coffee
   - page: about
     directory: about/
     icon: fa-user
