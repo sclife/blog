@@ -6,7 +6,7 @@ comment: false
 
 
 ### <i class="fa fa-book"></i> 人丑要多读书
-* 小说：[<i class="fa fa-paperclip"></i> 秘密 (日)东野圭吾](https://book.douban.com/subject/25720041/) 
+* 小说：[<i class="fa fa-paperclip"></i> 秘密 (日)东野圭吾](https://book.douban.com/subject/25720041/)  [<i class="fa fa-paperclip"></i>藏海花 南派三叔](https://book.douban.com/subject/11528339/)  [<i class="fa fa-paperclip"></i>白夜行 [日] 东野圭吾](https://book.douban.com/subject/3259440/) 
 * 心理学：[<i class="fa fa-paperclip"></i> 自我 (美)乔纳森·布朗](https://book.douban.com/subject/1193622/)
 * 工作：[<i class="fa fa-paperclip"></i> Cracking the Coding Interview](https://book.douban.com/subject/4941558/)
 ---
