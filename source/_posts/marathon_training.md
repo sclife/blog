@@ -5,6 +5,8 @@ tags:
 date: 2016-11-14
 ---
 
+google: paint online
+
 {% codeblock %}
 alert('Hello World!');
 {% endcodeblock %}
