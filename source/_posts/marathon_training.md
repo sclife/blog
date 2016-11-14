@@ -21,6 +21,7 @@ date: 2016-11-14
 ## 热身备忘
 * Single Leg Squat
 <img style="display: inline;" src="/bucket/image/single-leg-squat-1.png" width="10%"> <img style="display: inline;" src="/bucket/image/single-leg-squat-2.png" width="10%">
+<img style="display: inline;" src="/image/single-leg-squat-1.png" width="10%"> 
 
 ## 下肢训练
 
