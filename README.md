@@ -1,5 +1,10 @@
 # 笔记
 
+### Repo
+* master: public内文件，用于显示网页
+* src: 源代码
+* theme: themes内文件
+
 ### 安装
 * [hexo](https://hexo.io/docs/)
 * 主题maupassant-hexo相关包
