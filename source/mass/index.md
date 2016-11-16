@@ -4,7 +4,6 @@ layout: page
 comment: false
 ---
 
-
 ### <i class="fa fa-book"></i> 人丑要多读书
 * 正在阅读：[<i class="fa fa-paperclip"></i> Coders at work]() [<i class="fa fa-paperclip"></i> Cracking the Coding Interview](https://book.douban.com/subject/4941558/) [<i class="fa fa-paperclip"></i> 自我 (美)乔纳森·布朗](https://book.douban.com/subject/1193622/) [<i class="fa fa-paperclip"></i> 解忧杂货店 (日)东野圭吾](https://book.douban.com/subject/25862578/)
 * 小说：[<i class="fa fa-paperclip"></i> 秘密 (日)东野圭吾](https://book.douban.com/subject/25720041/)  [<i class="fa fa-paperclip"></i>藏海花 南派三叔](https://book.douban.com/subject/11528339/)  [<i class="fa fa-paperclip"></i>白夜行 [日] 东野圭吾](https://book.douban.com/subject/3259440/) 
@@ -13,8 +12,9 @@ comment: false
 
 ---
 
-### <i class="fa fa-quote-left"></i> 你喂的鸡汤最好喝
+### <i class="fa fa-quote-left"></i> 绝命鸡汤
 
+#### 你喂的鸡汤最好喝
 * 你一定要好好的，如果你比我先死，那我就变成小寡妇了。
 * 我想要理想中举案齐眉的夫妻生活。
 * 石川，你真的读书太少了，要多！读！书！知道么？！
@@ -23,6 +23,10 @@ comment: false
 * 石川，你吓到我了，我一睁开眼看到一只大猩猩。
 * 雷厉志愿者是我这辈子做过最累的事，我想我这辈子都不会那次那么累了。
 * 石川你怎么能这么丑，还驼背内八。
+
+#### 我的胡话
+* 爱是个永远都说不清的事情，每个人都有自己的评价体系。
+* 我喜欢新的东西，但不会仅仅因为一样东西旧而换新的。
 
 ---
 
