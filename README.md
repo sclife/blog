@@ -10,6 +10,7 @@
 * 主题maupassant-hexo相关包
   - `$ npm install hexo-renderer-jade --save`
   - `$ npm install hexo-renderer-sass --save`
+  - `$ npm install hexo-math --save`
 
 ### 图标
 * [font awesome](http://fontawesome.io/)
