@@ -17,3 +17,7 @@
 
 ### 使用mathjax
 * [link](https://zhongpu.info/2016/05/06/Mathjax%20and%20Hexo/)
+
+### 给post增加图片
+enable post_asset_folder
+https://hexo.io/zh-cn/docs/asset-folders.html
