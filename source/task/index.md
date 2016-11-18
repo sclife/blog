@@ -13,6 +13,13 @@ comment: false
   - CC proj
   - ML proj
   - BD proj
+    - maven
+    - 分析json文件
+    - 分析data (商户地址, 用户review/address)
+    - sparkSQL data操作
+    - Yelp review 自然语言处理-分类,tags
+    - ALS 评分预测
+    - 优化地点计算
 * 找工作
   - 刷题
   - 改简历
@@ -26,3 +33,7 @@ comment: false
 ---
 
 ### <i class="fa fa-check-square-o"></i> 完成
+* 学习
+  - BigData Project
+    - scala 读取 json
+
