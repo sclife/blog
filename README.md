@@ -21,3 +21,10 @@
 ### 给post增加图片
 enable post_asset_folder
 https://hexo.io/zh-cn/docs/asset-folders.html
+
+### Favicon生成
+* [link](http://realfavicongenerator.net/) or [link](http://www.favicongenerator.com/)
+* mac file permissions @ sign [link](http://unix.stackexchange.com/questions/10/what-does-the-mean-in-ls-l)
+```
+xattr -c <filename>
+```
