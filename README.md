@@ -28,3 +28,6 @@ https://hexo.io/zh-cn/docs/asset-folders.html
 ```
 xattr -c <filename>
 ```
+
+### 添加订阅atom.xml
+* [hexo-generator-feed](https://github.com/hexojs/hexo-generator-feed)
