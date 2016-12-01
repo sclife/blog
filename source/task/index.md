@@ -9,31 +9,24 @@ comment: false
 ---
 
 ### <i class="fa fa-bolt"></i> 正在执行
-* 学习
-  - CC proj
-  - ML proj
-  - BD proj
-    - maven
-    - 分析json文件
-    - 分析data (商户地址, 用户review/address)
-    - sparkSQL data操作
-    - Yelp review 自然语言处理-分类,tags
-    - ALS 评分预测
-    - 优化地点计算
 * 找工作
   - 刷题
   - 改简历
+* 增重
+  - [建议及计划](http://bbs.hupu.com/9046842.html)
+* 小跑
+  - 每周10km
+* 停止咬手指
+* 停止挖鼻子
+* 便秘
 
 ---
 
 ### <i class="fa fa-hourglass-half"></i> 待定
-* Functional Programming
-* GoLang
+* 马拉松
+* 看极光
 
 ---
 
 ### <i class="fa fa-check-square-o"></i> 完成
-* 学习
-  - BigData Project
-    - scala 读取 json
 
