@@ -14,6 +14,8 @@ comment: false
   - 改简历
 * 增重
   - [建议及计划](http://bbs.hupu.com/9046842.html)
+  - [饮食攻略：8000卡路里增肥增肌计划](http://zf.39.net/ys/089/1/632191.html)
+  - [最实用的瘦人健身增肥食谱](https://site.douban.com/239506/widget/notes/16824138/note/485124643/)
 * 小跑
   - 每周10km
 * 停止咬手指
