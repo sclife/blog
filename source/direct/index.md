@@ -8,6 +8,9 @@ comments: false
 
 ---
 
+### 以后该做什么
+
+<!--
 ### <i class="fa fa-code-fork"></i> Functional Programming
 * 简述
 * 因素
@@ -62,4 +65,4 @@ comments: false
 * 相关
   - 掌握基本知识
   - 使用标准库 python java MLib
-
+-->
