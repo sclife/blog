@@ -2,6 +2,7 @@
 title: 那些有的没的
 layout: page
 comment: false
+toc: true
 ---
 
 ### <i class="fa fa-book"></i> 人丑要多读书
