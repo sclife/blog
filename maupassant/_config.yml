@@ -26,12 +26,12 @@ menu:
   - page: 过往
     directory: timeline/
     icon: fa-history
-  - page: 选择
-    directory: direct/
-    icon: fa-map-signs
-  - page: 任务
+  - page: 理想
+    directory: ideal/
+    icon: fa-diamond
+  - page: 计划
     directory: task/
-    icon: fa-coffee
+    icon: fa-briefcase
   - page: about
     directory: about/
     icon: fa-user
