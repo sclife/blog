@@ -32,6 +32,9 @@ menu:
   - page: 计划
     directory: task/
     icon: fa-briefcase
+  - page: 雾霾
+    directory: smog/
+    icon: fa-tasks
   - page: about
     directory: about/
     icon: fa-user
