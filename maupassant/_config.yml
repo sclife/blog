@@ -34,7 +34,7 @@ menu:
     icon: fa-briefcase
   - page: 雾霾
     directory: smog/
-    icon: fa-tasks
+    icon: fa-cloud
   - page: about
     directory: about/
     icon: fa-user
