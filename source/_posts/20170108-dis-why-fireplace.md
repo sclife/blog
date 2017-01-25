@@ -1,5 +1,5 @@
 title: 为什么美国人喜欢用fireplace而不是空调
-category: 好奇
+category: 发现
 tags:
   - 壁炉
 date: 2017－01-08
