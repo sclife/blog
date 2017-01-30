@@ -6,10 +6,21 @@ toc: true
 ---
 
 ### <i class="fa fa-book"></i> 人丑要多读书
-* 正在阅读：[<i class="fa fa-paperclip"></i> Coders at work]() [<i class="fa fa-paperclip"></i> Cracking the Coding Interview](https://book.douban.com/subject/4941558/) [<i class="fa fa-paperclip"></i> 自我 [美]乔纳森·布朗](https://book.douban.com/subject/1193622/) [<i class="fa fa-paperclip"></i> 当我谈跑步时我谈些什么 [日]树上春树](https://book.douban.com/subject/3369600/)
-* 小说：[<i class="fa fa-paperclip"></i> 秘密 [日]东野圭吾](https://book.douban.com/subject/25720041/)  [<i class="fa fa-paperclip"></i>藏海花 南派三叔](https://book.douban.com/subject/11528339/)  [<i class="fa fa-paperclip"></i>白夜行 [日]东野圭吾](https://book.douban.com/subject/3259440/) [<i class="fa fa-paperclip"></i> 解忧杂货店 [日]东野圭吾](https://book.douban.com/subject/25862578/)
-* 心理学：
-* 方法：
+| 书名 | 作者 | 语言 | 标签 |
+| :---| :---| :--- | :--- |
+| [瓦尔登湖](https://book.douban.com/subject/1865089/) | [美]梭罗 | zh | 心态 生活方式 |
+| [Embracing the Wide Sky](https://book.douban.com/subject/5925971/) | Daniel Tammet | en | 方法 |
+| [The Great Gatsby](https://book.douban.com/subject/11453223/) | F. Scott. Fitzgerald | en | 小说 |
+| [如何成为一个很厉害的人](https://book.douban.com/subject/26761696/) | 采铜 | zh | 方法论 |
+| [三体](https://book.douban.com/subject/2567698/) | 刘慈欣 | zh | 小说 |
+| [Coders at work](https://book.douban.com/subject/3673223/) | Peter Seibel | en | 人物 |
+| [CTCI, 6th edition](https://book.douban.com/subject/26570695/) | Gayle Laakmann | en | 工作 面试 代码 |
+| [自我](https://book.douban.com/subject/1193622/) | [美]乔纳森·布朗 | zh | 心理学 自我 |
+| [当我谈跑步时我谈些什么](https://book.douban.com/subject/3369600/) | [日]树上春树 | zh | 散文 跑步 |
+| [解忧杂货店](https://book.douban.com/subject/25862578/)| [日]东野圭吾 | zh | 小说 治愈 因果 |
+| [藏海花](https://book.douban.com/subject/11528339/) | 南派三叔 | zh | 小说 盗墓 |
+| [白夜行](https://book.douban.com/subject/3259440/) | [日]东野圭吾 | zh | 小说 悬疑 爱情 牺牲 |
+| [秘密](https://book.douban.com/subject/25720041/) |  [日]东野圭吾 | zh | 小说 悬疑 灵魂附体 爱情 |
 
 ---
 
