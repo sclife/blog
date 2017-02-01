@@ -20,6 +20,9 @@ menu:
   - page: 信件
     directory: letters/
     icon: fa-envelope
+  - page: 进程
+    directory: progress/
+    icon: fa-fast-forward
   - page: 统计
     directory: stat/
     icon: fa-dashboard
