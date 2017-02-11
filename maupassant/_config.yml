@@ -38,9 +38,9 @@ menu:
   - page: 其他
     directory: mass/
     icon: fa-cubes
-  - page: 真相
-    directory: history/
-    icon: fa-exclamation-triangle
+  - page: 故事
+    directory: story/
+    icon: fa-pencil
   - page: archive
     directory: archives/
     icon: fa-archive
