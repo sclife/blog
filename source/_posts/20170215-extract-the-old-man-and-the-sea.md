@@ -21,13 +21,13 @@ bow 船头
 
 ---
 
-“I remember everything from when we first went together.”
+"I remember everything from when we first went together."
 The old man looked at him with his sun-burned, confident loving eyes.
 "If you were my boy I'd take you out and gamble," he said. "But you are your father's and your mother's and you are in a lucky boat."
 
 ---
 
-“One,” the old man said. His hope and his confidence had never gone. But now they were freshening as when the breeze rises.
+"One," the old man said. His hope and his confidence had never gone. But now they were freshening as when the breeze rises.
 
 ---
 
@@ -43,7 +43,7 @@ There was no cast net and the boy remembered when they had sold it. But thet wen
 
 "I think perhaps I can too. But I try not to borrow. First you borrow. Then you beg."
 
-这是哪个小男孩说的。
+小男孩说
 
 ---
 
