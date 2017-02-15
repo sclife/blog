@@ -5,6 +5,8 @@ tags:
 date: 2017－02-15
 ---
 
+---
+
 Everything about him was old except his eyes and they were the same color as the sea and were cheerful and undefeated.
 
 ---
@@ -20,9 +22,7 @@ bow 船头
 ---
 
 “I remember everything from when we first went together.”
-
 The old man looked at him with his sun-burned, confident loving eyes.
-
 "If you were my boy I'd take you out and gamble," he said. "But you are your father's and your mother's and you are in a lucky boat."
 
 ---
@@ -35,7 +35,7 @@ The old man looked at him with his sun-burned, confident loving eyes.
 
 ---
 
-There was no cast net and the boy remembered when they had sold it. But thet went through this fiction every day. There was no pot of yellow rice and fish and the boy kew this too.
+There was no cast net and the boy remembered when they had sold it. But thet went through this fiction every day. There was no pot of yellow rice and fish and the boy knew this too.
 
 为什么？Santiago过着不一样的生活，似乎不需要食物不需要休息
 
@@ -48,12 +48,19 @@ There was no cast net and the boy remembered when they had sold it. But thet wen
 ---
 
 Where did you wash? the boy thought. The village water supply was two streets down the road. I must have water here for him, the boy thought, and soap and a good towel. Why am I so thoughtless? I must get him another shirt and a jacket for the winter and some sort of shoes and another blanket.
-
 "Your stew is excellent," the old man said.
 
 ---
 
 "They lost today," the boy told him.
 "That means nothing. The great DiMaggio is himself again."
+
+---
+
+"I know. It was a great mistake. He might have gone with us. Then we would have that for all of our lives."
+
+---
+
+"Thank you. You make me happy. I hope no fish will come along so great that he will prove us wrong."
 
 ---
