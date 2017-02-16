@@ -5,7 +5,7 @@ comment: false
 toc: true
 ---
 
-### <i class="fa fa-comment"></i> 瑶言
+### <i class="fa fa-comment"></i> 瑶言惑众
 
 * 你一定要好好的，如果你比我先死，那我就变成小寡妇了。
 * 我想要理想中举案齐眉的夫妻生活。
@@ -43,7 +43,7 @@ toc: true
 * 每天洗澡按摩胸，有大一些
 -->
 
-### <i class="fa fa-book"></i> 人丑要多读书
+### <i class="fa fa-book"></i> 人丑多读
 | 书名 | 作者 | 语言 | 标签 |
 | :---| :---| :--- | :--- |
 | [梦的解析](https://book.douban.com/subject/1222032/) | [奥]西格蒙德·弗洛伊德 | zh | 精神分析 梦的解析 心理 |
@@ -65,7 +65,7 @@ toc: true
 
 ---
 
-### <i class="fa fa-cloud"></i> 雾霾 smog
+### <i class="fa fa-cloud"></i> 雾霾杭州
 我，一个土生土长的杭州人。高中之前，从来都是以杭州这个城市为自豪。因为自高中开始杭州的天空不再那么的明媚，同时一天天恶化。直到本科毕业的时候，阳台正对的哪座山已经看不清，甚至看不见。我的心是痛的，面对这一切我显得太渺小而无力。
 
 还记得出国前有那么一段时间。每天查看百度上杭州天气，查看pm2.5，基本100+，还常常看到橙色或红色120+的情况。如果下雨就会到80左右，或者更低70几。这时候我和妈妈就会计划去对面老和山底的游步道走个来回。也就是pm2.5在70的时候是幸福感最高点。
@@ -95,7 +95,7 @@ toc: true
 
 ---
 
-### <i class="fa fa-film"></i> 电影
+### <i class="fa fa-film"></i> 电影记录
 
 * Beauty and the Beast
 * The Circle
@@ -103,7 +103,7 @@ toc: true
 
 ---
 
-### <i class="fa fa-question"></i> 凭什么
+### <i class="fa fa-question"></i> 我凭什么
 * 为什么放不下？
 * 是不是太自大？
 * 凭什么要她和我在一起？我如此之糟糕
@@ -116,3 +116,8 @@ toc: true
   - 没有平和的心态
   - 没有照顾人的能力
   - 没有魄力、执行力
+
+---
+
+### <i class="fa fa-info-circle"></i> Icon
+<i class="fa fa-spoon"></i> <i class="fa fa-headphones"></i> <i class="fa fa-map-o"></i> <i class="fa fa-heart"></i> <i class="fa fa-globe"></i> <i class="fa fa-suitcase"></i> <i class="fa fa-cutlery"></i> <i class="fa fa-download"></i>

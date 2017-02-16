@@ -13,7 +13,7 @@ mathjax: true
 ---
 
 ### <i class="fa fa-user-secret"></i> 我
-INFP，理想主义者，死脑筋，偏执
+[INFP](https://www.16personalities.com/ch/infp-%E4%BA%BA%E6%A0%BC)，理想主义者，死脑筋，偏执
 计算机硕士在读 2015.09-2017.05
 挑剔地找工作中：不会web，不会iOS/Android，不会数据库管理。
 理想方向：ML AI Cloud
