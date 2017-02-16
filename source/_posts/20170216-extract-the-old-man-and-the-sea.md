@@ -64,3 +64,5 @@ Where did you wash? the boy thought. The village water supply was two streets do
 "Thank you. You make me happy. I hope no fish will come along so great that he will prove us wrong."
 
 ---
+
+But, he thought, I keep them with precision. Only I have no luck any more. But how knows? Maybe today. Every day is a new day. It is better to be lucky. But I would rather be exact. Then when luck comes you are ready.
