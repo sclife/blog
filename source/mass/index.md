@@ -20,7 +20,7 @@ toc: true
 
 ### <i class="fa fa-music"></i> 岁月如歌
 | # |  |  |  |
-| :---:| :------:| :------: | :------: |
+| :---:| :------| :------ | :------ |
 | 01 | 陈慧娴 - 千千阙歌 | 刘思涵 - 走在冷风中 | 林俊杰 - 江南 |
 | 02 | 薛之谦 - 丑八怪 | 容祖儿 - 月半小夜曲 | 蔡依林-倒带 | 
 | 03 | 汪峰 - 谢谢 | 陈奕迅 - 孤独患者 | 侧田 - Volar |
@@ -46,6 +46,9 @@ toc: true
 ### <i class="fa fa-book"></i> 人丑要多读书
 | 书名 | 作者 | 语言 | 标签 |
 | :---| :---| :--- | :--- |
+| [梦的解析](https://book.douban.com/subject/1222032/) | [奥]西格蒙德·弗洛伊德 | zh | 精神分析 梦的解析 心理 |
+| [The Old Man and the Sea](https://book.douban.com/subject/1364868/) | Ernest Hemingway | en | 小说 品质 |
+| [Marva Collins Way](https://book.douban.com/subject/2823823/) | Marva Collins |  | 教育学 |
 | [瓦尔登湖](https://book.douban.com/subject/1865089/) | [美]梭罗 | zh | 心态 生活方式 |
 | [Embracing the Wide Sky](https://book.douban.com/subject/5925971/) | Daniel Tammet | en | 方法 |
 | [The Great Gatsby](https://book.douban.com/subject/11453223/) | F. Scott. Fitzgerald | en | 小说 |
@@ -90,11 +93,15 @@ toc: true
 ### 我能做什么
 -->
 
+---
+
 ### <i class="fa fa-film"></i> 电影
 
 * Beauty and the Beast
 * The Circle
 * 漫威系列
+
+---
 
 ### <i class="fa fa-question"></i> 凭什么
 * 为什么放不下？
