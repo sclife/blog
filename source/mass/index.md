@@ -123,7 +123,7 @@ toc: true
 * 就算失去的找不回来，那也要继续向前，终有一天让瑶遇见更好的我。
 * 小孩才怕分开，大人只计重逢。
 
-### <i class="fa fa-commenting－o"></i> 高晓松说
+### <i class="fa fa-commenting-o"></i> 高晓松说
 
 ### <i class="fa fa-info-circle"></i> Icon
 <i class="fa fa-spoon"></i> <i class="fa fa-headphones"></i> <i class="fa fa-map-o"></i> <i class="fa fa-heart"></i> <i class="fa fa-globe"></i> <i class="fa fa-suitcase"></i> <i class="fa fa-cutlery"></i> <i class="fa fa-download"></i>
