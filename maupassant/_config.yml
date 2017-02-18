@@ -37,7 +37,7 @@ menu:
     icon: fa-user
   - page: 其他
     directory: mass/
-    icon: fa-asterisk
+    icon: fa-ambulance
   - page: 故事
     directory: story/
     icon: fa-pencil
