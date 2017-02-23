@@ -1,4 +1,6 @@
+---
 title: 冥想练习纪录
+layout: post
 category: 自我
 tags: [自控力, 冥想练习, 发现问题]
 date: 2017-02-18

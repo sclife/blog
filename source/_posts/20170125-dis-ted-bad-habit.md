@@ -1,4 +1,6 @@
+---
 title: TED 坏习惯
+layout: post
 category: 发现
 tags:
 date: 2017-01-25

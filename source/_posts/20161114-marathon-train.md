@@ -1,5 +1,6 @@
 ---
 title: 马拉松训练准备
+layout: post
 category: 笔记
 tags:
   - 马拉松

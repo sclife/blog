@@ -1,4 +1,6 @@
+---
 title: 为什么美国人喜欢用fireplace而不是空调
+layout: post
 category: 发现
 tags:
   - 壁炉

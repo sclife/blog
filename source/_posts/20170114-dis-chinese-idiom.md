@@ -1,4 +1,6 @@
+---
 title: 中国成语
+layout: post
 category: 发现
 tags:
   - 成语

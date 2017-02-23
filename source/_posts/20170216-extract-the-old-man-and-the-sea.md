@@ -1,4 +1,6 @@
+---
 title: 老人与海
+layout: post
 category: 摘
 tags:
   - 老人与海

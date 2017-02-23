@@ -1,4 +1,6 @@
+---
 title: 瓦尔登湖
+layout: post
 category: 摘
 tags:
   - 瓦尔登湖

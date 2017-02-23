@@ -1,4 +1,6 @@
+---
 title: 备忘
+layout: post
 category: 笔记
 date: 2016-10-14
 ---

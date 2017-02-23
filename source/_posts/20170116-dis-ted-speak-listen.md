@@ -1,4 +1,6 @@
+---
 title: TED 如何说话能使别人愿意听
+layout: post
 category: 发现
 tags:
   - ted
