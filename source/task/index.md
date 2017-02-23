@@ -92,7 +92,7 @@ toc: true
   - 简历critique
   - 刷题（按照类型 按照公司）
   - 自我介绍更新
-  - 增加技能 maven ooad aws openstack git docker junit
+  - 增加技能 maven ooad aws openstack git docker junit golang lisp linux
 * 课程作业
   - 堵丁柱 作业 考试
   - ooad 水水
