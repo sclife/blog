@@ -11,12 +11,17 @@
   - `$ npm install hexo-renderer-jade --save`
   - `$ npm install hexo-renderer-sass --save`
   - `$ npm install hexo-math --save`
+  - `$ npm install --save hexo-pdf`
 
 ### 图标
 * [font awesome](http://fontawesome.io/)
 
 ### 使用mathjax
 * [link](https://zhongpu.info/2016/05/06/Mathjax%20and%20Hexo/)
+
+### hexo pdf
+[Hexo tag for embeded pdf](https://github.com/superalsrk/hexo-pdf/)
+
 
 ### 给post增加图片
 enable post_asset_folder
