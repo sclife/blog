@@ -82,13 +82,13 @@ toc: true
   - 找工作必须：项目整理 刷题 了解公司 了解面试
   - 个人兴趣网络课程
 
-#### 四象限
+#### 时间四象限
 |  | |  |
 |:---|:--- |:--- | 
 | 紧急重要 |  | 紧急不重要 |
 | 投简历<br>刷题<br>career services |  | 交钱<br>ntta |
 | 不紧急重要 |  | 不紧急不重要 |
-| 旅游<br> |  | frisco gun club <br>是，首相<br>绝望主妇<br>sky diving |
+| 旅游<br>整理计划 |  | frisco gun club <br>是，首相<br>绝望主妇<br>sky diving<br> crush course |
 
 #### 近期要事
 * 找工作
