@@ -63,6 +63,7 @@ toc: true
 {"month": "Mar", "weight": 120, "plank": "00:00", "running": 0, "read": 0, "photo": 0, cuisine: 0}
 ```
 
+###  时间安排
 #### 日计划设定方式
 * 固定短时（20%）
   - 冥想
@@ -81,7 +82,15 @@ toc: true
   - 找工作必须：项目整理 刷题 了解公司 了解面试
   - 个人兴趣网络课程
 
-##### 近期要事
+#### 四象限
+|  | |  |
+|:---|:--- |:--- | 
+| 紧急重要 |  | 紧急不重要 |
+| 投简历<br>刷题<br>career services |  | 交钱<br>ntta |
+| 不紧急重要 |  | 不紧急不重要 |
+| 旅游<br> |  | frisco gun club <br>是，首相<br>绝望主妇<br>sky diving |
+
+#### 近期要事
 * 找工作
   - proj 整理
     - hadoop
