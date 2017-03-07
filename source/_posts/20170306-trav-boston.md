@@ -7,7 +7,8 @@ date: 2017-03-06
 ---
 
 ## 出游动机
-这学期选了一门水课，是堵老师教的，这门课由两部分学生：混学分的MS和跟堵老师的PHD。我当然属于混分选手。课程时间很长，老师用30min讲故事，关于科研，关于学习，还有他在UCSB、MIT、明尼苏达、Berkeley的事情。上周提到的MIT便成了我这次出行的其中一个目的地，那里的人把努力当作一种习惯。我并不指望我能成为向他们一样的精英，但我需要真真实实地看到感受到这一切。
+* 一直没有出远门玩
+* 堵老师课上的提到那群把努力当作习惯的人（我并不指望自己变成精英，当）
 
 ## 安排
 ### 准备
@@ -22,6 +23,11 @@ http://www.boston-discovery-guide.com/index.html
 * 主要交通工具：地铁(应该有daypass)
 
 ### 旅馆
+* 青旅
+  - http://bostonhostel.org/
+  - https://www.hiusa.org/hostels/massachusetts/boston/boston
+  - https://www.hihostels.com/hostels/hi-boston
+  - http://www.hostels.com/boston/usa
 
 ### 目的地
 * 地区
@@ -44,9 +50,12 @@ http://www.boston-discovery-guide.com/index.html
 ### 起飞
   - 去：3月22日 09:00am
   - 回：3月26日 10:00am
+
 ### Boston Downtown
 
 ### 世界最古老的地铁
+
+### Boston 中国城
 
 ### 仰望高等学府
 * 确定跑步路线
