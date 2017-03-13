@@ -51,4 +51,5 @@ toc: true
 - `study_score` 自我评价
 
 ### 生活记录 -->
-{% gist 2d3354a375d9a84eaba0132ffb1c774e %}
+{% gist a0487846d53910031f497c0f729b17d3 %}
+<!--{% gist 2d3354a375d9a84eaba0132ffb1c774e %} -->
