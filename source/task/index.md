@@ -34,14 +34,12 @@ toc: true
 * 体重70kg（年末）
 * 读书25本
 * 找到一份工作
-* <del>拍1000张照片</del>
 * 学会24道美食
 
 #### 月目标
 * 跑步85+km
 * 增重2+kg
 * 读书2+本
-* <del>拍摄83张照片</del>
 * 2道美食
 
 ### 统计
@@ -49,7 +47,6 @@ toc: true
 #### 总进度
 * 跑步1000km (0km)
 * 平板10min (2min)
-* 拍1000张照片（0）
 * 读书25本（0本）
 * 找到一份工作（0份）
 * 24道美食（0道）
@@ -59,8 +56,8 @@ toc: true
 #### 月统计
 ```
 {"month": "Jan", "weight": 125, "plank": "02:00", "running": 85, "read": 1, "photo": 0, cuisine: 1}
-{"month": "Feb", "weight": 120, "plank": "04:00", "running": 0, "read": 1, "photo": 0, cuisine: 0}
-{"month": "Mar", "weight": 120, "plank": "00:00", "running": 0, "read": 0, "photo": 0, cuisine: 0}
+{"month": "Feb", "weight": 120, "plank": "04:00", "running": 0, "read": 1, cuisine: 0}
+{"month": "Mar", "weight": 120, "plank": "00:00", "running": 0, "read": 0, cuisine: 0}
 ```
 
 ###  时间安排
@@ -95,18 +92,18 @@ toc: true
 #### 近期要事
 * 找工作
   - proj 整理
-    - hadoop
-    - spark
+    - <del>hadoop</del>
+    - <del>spark</del>
     - SelfDB
-    - ML proj
-    - ceph test
-  - 简历critique
+    - <del>ML proj</del
+    - <del>ceph test</del>
+  - 简历
   - 刷题（按照类型 按照公司）
   - 自我介绍更新
   - 增加技能 maven ooad aws openstack git docker junit golang lisp linux
 * 课程作业
-  - 堵丁柱 作业 考试
-  - ooad 水水
+  - <del>堵丁柱 作业 考试</del>
+  - <del>ooad 水水</del>
   - 课程笔记整理
 
 #### 时间占用
