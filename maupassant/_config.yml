@@ -17,6 +17,9 @@ menu:
   - page: home
     directory: .
     icon: fa-paper-plane
+  - page: 假如
+    directory: ifonly/
+    icon: fa-venus-mars
   - page: 信件
     directory: letters/
     icon: fa-envelope
@@ -54,10 +57,10 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
   - links
 
 links:
-  - title: shichuanwang.me
-    url: http://shichuanwang.me/
-  #- title: site-name3
-  #  url: http://www.example3.com/
+  - title: wangsc.ga
+    url: http://wangsc.ga
+  - title: kindle books
+    url: https://github.com/wbunle/PersonalShare/tree/master/Kindle%20Books
 
 timeline:
   - num: 1
