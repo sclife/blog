@@ -8,7 +8,7 @@ toc: true
 
 ---
 
-## 别人的评价
+## 评论
 * 波士顿 vs 纽约
   * [知乎 fifififi](https://www.zhihu.com/question/24370395/answer/30667421)
     - 纽约应该是最有代表性的国际大都市。形形色色什么人都有 来自世界各地的观光客和new yorker，交通拥堵，纽约很大，热闹的地方很拥挤，十分繁华，但让人感觉很难静下心来。和伦敦一样都是节奏快 消费高的国际大都市。
@@ -116,35 +116,23 @@ toc: true
 波士顿红袜队
 
 ## 这次无缘
-
-### 查尔斯河畔
-* 每年 4-5 月份，这里都会举行隆重的免费音乐节，而且有巨多免费的零食试吃活动
-
-### Boston Marathon 4月的第三个星期一
-* 美国爱国者日(Patriots’ Day)
-
-### 海边Cape Cod（市区开车一个半小时）
-
-### Walden Pond
-
-### RedSox vs Yankee (end of April)
-
-### Theatre
-
-### 出海
-
-### 海滩冲浪经典之地
-- The Hull 野炊
-
-### Charles River Canoe & Kayak
-- 夏季开放
-
-### Tufts
-- 村上春树 boston marathon. Tufts 教授
-
-### Revere Beach 日光浴游泳
-
-### Lobster (Season)
+* 查尔斯河畔
+  - 每年 4-5 月份，这里都会举行隆重的免费音乐节，而且有巨多免费的零食试吃活动
+* Boston Marathon 4月的第三个星期一
+  - 美国爱国者日(Patriots’ Day)
+* 海边Cape Cod（市区开车一个半小时）
+* Walden Pond
+* RedSox vs Yankee (end of April)
+* Theatre
+* 出海
+* 海滩冲浪经典之地
+  - The Hull 野炊
+* Charles River Canoe & Kayak
+  - 夏季开放
+* Tufts Univ.
+  - 村上春树 boston marathon. Tufts 教授
+* Revere Beach 日光浴游泳
+* Lobster (Season)
 > January, February and March
 > Lobsters are scarce and the prices are at their highest. During the winter months lobsters move further offshore, requiring lobster boats to travel greater distances, and the harsh weather makes it more difficult for fishermen to work.
 > April, May and June
