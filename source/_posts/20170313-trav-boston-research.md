@@ -1,5 +1,5 @@
 ---
-title: Boston 行前知识储备
+title: Boston行前信息储备
 layout: post
 category: 杂记
 tags: [travel, Boston]
