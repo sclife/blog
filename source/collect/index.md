@@ -19,4 +19,6 @@ toc: true
 
 
 ## 旅行相关
+* [Boston行前信息储备](/posts/20170313-trav-boston-research)
+* [Boston之行 准备篇](/posts/20170306-trav-boston-prep)
 
