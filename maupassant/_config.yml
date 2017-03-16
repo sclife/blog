@@ -32,9 +32,6 @@ menu:
   - page: 理想
     directory: ideal/
     icon: fa-diamond
-  - page: 计划
-    directory: task/
-    icon: fa-briefcase
   - page: about
     directory: about/
     icon: fa-user
@@ -44,6 +41,9 @@ menu:
   - page: 故事
     directory: story/
     icon: fa-pencil
+  - page: 整理
+    directory: collect/
+    icon: fa-bookmark
   - page: archive
     directory: archives/
     icon: fa-archive
