@@ -21,3 +21,4 @@ date: 2017-02-27
   - [如何系统完整学习 Lightroom](https://www.zhihu.com/question/31296921)
 * 老邮差数码照片处理技法 风光篇 RAW篇 ...
 * 旅行摄影圣经
+* 《简单摄影后期课》李涛
