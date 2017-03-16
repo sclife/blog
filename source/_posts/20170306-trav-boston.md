@@ -1,7 +1,7 @@
 ---
 title: Boston之行 准备篇
 layout: post
-category: 游
+category: 杂记
 tags: [travel, Boston, 计划]
 date: 2017-03-06
 ---

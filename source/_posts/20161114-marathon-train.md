@@ -1,11 +1,8 @@
 ---
 title: 马拉松训练准备
 layout: post
-category: 笔记
-tags:
-  - 马拉松
-  - 运动
-  - 训练计划
+category: 杂记
+tags: [马拉松, 运动, 训练计划]
 date: 2016-11-14
 toc: true
 

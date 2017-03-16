@@ -1,9 +1,8 @@
 ---
 title: Jambalaya 2017.02.05
 layout: post
-category: 吃
-tags:
-   - Jambalaya
+category: 杂记
+tags: [Jambalaya]
 date: 2017-02-05
 ---
 

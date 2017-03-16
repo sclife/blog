@@ -1,7 +1,7 @@
 ---
 title: 摄影资料来源
 layout: post
-category: 笔记
+category: 杂记
 tags: [摄影, lightroom]
 date: 2017-02-27
 ---

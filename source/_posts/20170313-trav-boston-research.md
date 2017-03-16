@@ -1,7 +1,7 @@
 ---
 title: Boston 行前知识储备
 layout: post
-category: 游
+category: 杂记
 tags: [travel, Boston]
 date: 2017-03-13
 toc: true

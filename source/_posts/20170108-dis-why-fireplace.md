@@ -2,8 +2,7 @@
 title: 为什么美国人喜欢用fireplace而不是空调
 layout: post
 category: 发现
-tags:
-  - 壁炉
+tags: [壁炉]
 date: 2017-01-08
 ---
 

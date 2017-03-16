@@ -1,7 +1,7 @@
 ---
 title: 时间管理方法
 layout: post
-category: 笔记
+category: 杂记
 tags: [知乎live, 时间管理]
 date: 2017-02-28
 toc: true

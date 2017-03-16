@@ -1,9 +1,8 @@
 ---
 title: 老人与海
 layout: post
-category: 摘
-tags:
-  - 老人与海
+category: 杂记
+tags: [老人与海]
 date: 2017-02-16
 ---
 
