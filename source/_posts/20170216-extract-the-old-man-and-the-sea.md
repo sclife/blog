@@ -1,7 +1,7 @@
 ---
 title: 老人与海
 layout: post
-category: 杂记
+category: 阅读
 tags: [老人与海]
 date: 2017-02-16
 ---

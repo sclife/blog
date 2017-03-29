@@ -1,7 +1,7 @@
 ---
 title: 瓦尔登湖
 layout: post
-category: 杂记
+category: 阅读
 tags: [瓦尔登湖]
 date: 2017-01-09
 ---

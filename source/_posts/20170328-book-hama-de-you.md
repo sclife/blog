@@ -1,7 +1,7 @@
 ---
 title: 蛤蟆的油
 layout: post
-category: 读书
+category: 阅读
 tags: [蛤蟆的油, 自传, 黑泽明]
 date: 2017-03-28
 toc: true
