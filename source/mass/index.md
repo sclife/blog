@@ -45,22 +45,27 @@ toc: true
 ### <i class="fa fa-book"></i> 人丑多读
 | 书名 | 作者 | 语言 | 标签 |
 | :---| :---| :--- | :--- |
-| [梦的解析](https://book.douban.com/subject/1222032/) | [奥]西格蒙德·弗洛伊德 | zh | 精神分析 梦的解析 心理 |
+| [蛤蟆的油](https://book.douban.com/subject/1914636/) | [日]黑泽明 | 自传 黑泽明 |
 | [The Old Man and the Sea](https://book.douban.com/subject/1364868/) | Ernest Hemingway | en | 小说 品质 |
 | [Marva Collins Way](https://book.douban.com/subject/2823823/) | Marva Collins |  | 教育学 |
 | [瓦尔登湖](https://book.douban.com/subject/1865089/) | [美]梭罗 | zh | 心态 生活方式 |
-| [Embracing the Wide Sky](https://book.douban.com/subject/5925971/) | Daniel Tammet | en | 方法 |
 | [The Great Gatsby](https://book.douban.com/subject/11453223/) | F. Scott. Fitzgerald | en | 小说 |
 | [如何成为一个很厉害的人](https://book.douban.com/subject/26761696/) | 采铜 | zh | 方法论 |
 | [三体](https://book.douban.com/subject/2567698/) | 刘慈欣 | zh | 小说 |
-| [Coders at work](https://book.douban.com/subject/3673223/) | Peter Seibel | en | 人物 |
 | [CTCI, 6th edition](https://book.douban.com/subject/26570695/) | Gayle Laakmann | en | 工作 面试 代码 |
-| [自我](https://book.douban.com/subject/1193622/) | [美]乔纳森·布朗 | zh | 心理学 自我 |
 | [当我谈跑步时我谈些什么](https://book.douban.com/subject/3369600/) | [日]树上春树 | zh | 散文 跑步 |
 | [解忧杂货店](https://book.douban.com/subject/25862578/)| [日]东野圭吾 | zh | 小说 治愈 因果 |
 | [藏海花](https://book.douban.com/subject/11528339/) | 南派三叔 | zh | 小说 盗墓 |
 | [白夜行](https://book.douban.com/subject/3259440/) | [日]东野圭吾 | zh | 小说 悬疑 爱情 牺牲 |
 | [秘密](https://book.douban.com/subject/25720041/) |  [日]东野圭吾 | zh | 小说 悬疑 灵魂附体 爱情 |
+
+<!--
+| [梦的解析](https://book.douban.com/subject/1222032/) | [奥]西格蒙德·弗洛伊德 | zh | 精神分析 梦的解析 心理 |
+| [Embracing the Wide Sky](https://book.douban.com/subject/5925971/) | Daniel Tammet | en | 方法 |
+| [Coders at work](https://book.douban.com/subject/3673223/) | Peter Seibel | en | 人物 |
+| [自我](https://book.douban.com/subject/1193622/) | [美]乔纳森·布朗 | zh | 心理学 自我 |
+
+-->
 
 ---
 
