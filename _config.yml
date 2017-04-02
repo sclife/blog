@@ -43,6 +43,9 @@ menu:
   - page: about
     directory: about/
     icon: fa-user
+  - page: 客服
+    directory: customer/
+    icon: fa-users
   - page: archive
     directory: archives/
     icon: fa-archive
