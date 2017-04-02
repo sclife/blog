@@ -1,7 +1,7 @@
 ---
 title: 属于我们的游戏 If Only
 layout: page
-comments: false
+comments: true
 ---
 
 > If Only We Could Be Strangers Again.

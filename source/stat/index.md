@@ -1,7 +1,7 @@
 ---
 title: 我的生活统计
 layout: page
-comment: false
+comments: true
 toc: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 来自你的信
 layout: page
-comment: false
+comments: true
 toc: true
 ---
 

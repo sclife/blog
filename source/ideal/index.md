@@ -1,7 +1,7 @@
 ---
 title: 理想中的自己
 layout: page
-comments: false
+comments: true
 ---
 
 > 一个人不可能同时把很多事情做好。 --璐瑶

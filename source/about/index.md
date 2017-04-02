@@ -1,9 +1,8 @@
 ---
 title: 关于我和这个博客
 layout: page
-comment: false
+comments: true
 mathjax: true
-
 ---
 
 > $$\int\_{22}^{Mar.19.2017} \left( life \right)  \mathrm{d} \left( Chuan.age\right) = loveYao \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace \enspace$$

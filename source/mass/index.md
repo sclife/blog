@@ -1,7 +1,7 @@
 ---
 title: 那些有的没的
 layout: page
-comment: false
+comment: true
 toc: true
 ---
 

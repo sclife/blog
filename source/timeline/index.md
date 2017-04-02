@@ -1,7 +1,7 @@
 ---
 title: 我们的过往
 layout: page
-comments: false
+comments: true
 toc: true
 ---
 
