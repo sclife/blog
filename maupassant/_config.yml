@@ -17,9 +17,6 @@ menu:
   - page: home
     directory: .
     icon: fa-paper-plane
-  - page: 假如
-    directory: ifonly/
-    icon: fa-venus-mars
   - page: 故事
     directory: story/
     icon: fa-pencil
@@ -61,6 +58,8 @@ links:
     url: http://wangsc.ga
   - title: kindle books
     url: https://github.com/wbunle/PersonalShare/tree/master/Kindle%20Books
+  - title: 书语者 mobi
+    url: http://book.shuyuzhe.com/
 
 timeline:
   - num: 1
