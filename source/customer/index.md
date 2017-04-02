@@ -20,5 +20,5 @@ comments: true
 
 <center>
   <img src="cs01.jpg" width="50px" style="display: inline;" /> <img src="cs02.jpg" width="50px" style="display: inline;" /> <img src="cs03.jpg" width="50px" style="display: inline;" /> <img src="cs04.jpg" width="50px" style="display: inline;" /> <img src="cs06.jpg" width="50px" style="display: inline;" /> <img src="cs07.jpg" width="50px" style="display: inline;" /> <img src="cs08.jpg" width="50px" style="display: inline;" /> <img src="cs09.jpg" width="50px" style="display: inline;" />
-  **我们的客服人员会耐心的为您解答各种疑问**
+  **我们的客服人员会耐心地为您解答各种疑问**
 </center>
