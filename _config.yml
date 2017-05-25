@@ -19,33 +19,33 @@ menu:
   - page: home
     directory: .
     icon: fa-paper-plane
-  - page: 故事
-    directory: story/
-    icon: fa-pencil
-  - page: 信件
-    directory: letters/
-    icon: fa-envelope
-  - page: 过往
-    directory: timeline/
-    icon: fa-history
+#  - page: 故事
+#    directory: story/
+#    icon: fa-pencil
+#  - page: 信件
+#    directory: letters/
+#    icon: fa-envelope
+#  - page: 过往
+#    directory: timeline/
+#    icon: fa-history
   - page: 其他
     directory: mass/
     icon: fa-coffee
-  - page: 理想
-    directory: ideal/
-    icon: fa-diamond
-  - page: 统计
-    directory: stat/
-    icon: fa-dashboard
-  - page: 整理
-    directory: collect/
-    icon: fa-bookmark
+#  - page: 理想
+#    directory: ideal/
+#    icon: fa-diamond
+#  - page: 统计
+#    directory: stat/
+#    icon: fa-dashboard
+#  - page: 整理
+#    directory: collect/
+#    icon: fa-bookmark
   - page: about
     directory: about/
     icon: fa-user
-  - page: 客服
-    directory: customer/
-    icon: fa-users
+#  - page: 客服
+#    directory: customer/
+#    icon: fa-users
   - page: archive
     directory: archives/
     icon: fa-archive
