@@ -19,6 +19,9 @@ menu:
   - page: home
     directory: .
     icon: fa-paper-plane
+  - page: 空间
+    directory: workspace/
+    icon: fa-keyboard-o
 #  - page: 故事
 #    directory: story/
 #    icon: fa-pencil
@@ -53,10 +56,10 @@ menu:
 widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts, rencent_comments and links.
 #  - search
   - category
-  - tag
-  - recent_posts
-  - recent_comments
-  - links
+#  - tag
+#  - recent_posts
+#  - recent_comments
+#  - links
 
 links:
   - title: wangsc.ga
