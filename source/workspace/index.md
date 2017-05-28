@@ -9,7 +9,7 @@ comments: true
 * 技术书籍：
   - Using docker
   - 7 languages - 7 weeks
-* 闲杂书籍：
+* 书籍：
   - 了不起的盖兹比
   - 蛤蟆的油
 * proj
@@ -20,5 +20,5 @@ comments: true
 
 ### 之后计划
 * 技术[golang, aws, docker, unix, jupyter]
-* 闲杂书籍[]
-* proj[游戏, VMs, openbsd]
+* 书籍[]
+* proj[游戏-go-aws-docker, VMs, openbsd, iSO-opencv]
