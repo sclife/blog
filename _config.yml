@@ -62,8 +62,6 @@ widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts
 #  - links
 
 links:
-  - title: wangsc.ga
-    url: http://wangsc.ga
   - title: kindle books
     url: https://github.com/wbunle/PersonalShare/tree/master/Kindle%20Books
   - title: 书语者 mobi
