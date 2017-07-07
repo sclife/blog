@@ -25,24 +25,25 @@ block content
       else if post.excerpt
         .post-content
           != post.excerpt
-      else if post.content
-        - var br = 0
-        - for (var i = 0; i < 5; ++i) {
-          - br = post.content.indexOf('\n',br+1)
-          if br<0
-            - break
-          if br >150
-            - break
-        - }
-        if br < 0
-          .post-content
-            != post.content
-        else
-          .post-content
-            != post.content.substring(0, br)
+      //-
+        else if post.content
+          - var br_index = 0
+          - for (var i = 0; i < 5; ++i) {
+            - br_index = post.content.indexOf('\n',br_index+1)
+            if br_index<0
+              - break
+            if br_index >150
+              - break
+          - }
+          if br_index < 0
+            .post-content
+              != post.content
+          else
+            .post-content
+              != post.content.substring(0, br_index)
       p(class='readmore')
         a(href=url_for(post.path))= __('Readmore')
-
+        
   include _partial/paginator
   if theme.disqus
     script(id='dsq-count-scr', src='//#{theme.disqus}.disqus.com/count.js', async)
