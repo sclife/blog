@@ -2,9 +2,17 @@
 title: 工作空间
 layout: page
 comments: true
-#toc: true
+
 ---
 
+### 当前任务
+* 找工作
+* 网页：[mean stack app]
+* Nodejs vs Go
+* 刷题：[leetcode]
+* 其他：看情况而定
+
+<!-- 
 ### 当前任务
 * 路线
   - 课程：DS / ALG / interview
@@ -28,3 +36,4 @@ comments: true
 * 技术[algorithm, javascript, golang, aws, docker, unix]
 * 书籍[]
 * proj[游戏-go-aws-docker, VMs, openbsd, iSO-opencv]
+ -->
